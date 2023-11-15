@@ -15,4 +15,12 @@ console.log(typeof(g));
 
 /**          OUTPUT
 
+    number
+    string
+    boolean
+    object
+    undefined
+    bigint
+    object
+
  */
