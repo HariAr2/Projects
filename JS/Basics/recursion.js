@@ -16,3 +16,4 @@ r1.question("Enter a number: ",(userInput)=>{
     r1.close;
 
 });
+
