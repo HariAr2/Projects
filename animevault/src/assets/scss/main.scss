@@ -41,18 +41,20 @@
  
        a {
          display: block;
-         padding: 8px 16px;
+         padding: 16px 16px;
          text-align: left;
          color: #888;
-         font-size: 16px;
+         font-size: 8px;
+         width: 100%;
+         border: sizing 20px;
          margin-bottom: 16px;
          background-color: #EEE;
-         border-radius: 999px;
+         border-radius: 20px;
          text-decoration: none;
-         transition: 0.4s;
+         transition: 0.3s;
  
          &:hover {
-           background-color: #313131;
+           background-color: #1d1c1c;
            color: #AAA;
          }
        }

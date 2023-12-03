@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <Header/>
       <div className="content-wrap">
-        <Sidebar topAnime = {topAnime} />
+        <Sidebar topAnime ={topAnime}  />
       </div>
     </div>
   );
