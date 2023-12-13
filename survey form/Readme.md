@@ -29,7 +29,7 @@ The Survey Form is a simple web form built with HTML and styled with CSS. It gat
 
 ## Images
 
-![Alt Text]()
+![Alt Text](https://github.com/HariAr2/MyProjects/blob/main/survey%20form/surveyform.png?raw=true)
 
 
 ## Usage
