@@ -8,7 +8,7 @@ This project includes a basic survey form created using HTML and styled with CSS
 - [Features](#features)
 - [File Structure](#file-structure)
 - [Usage](#usage)
-- [License](#license)
+- [Images](#images)
 
 ## Introduction
 
@@ -26,6 +26,10 @@ The Survey Form is a simple web form built with HTML and styled with CSS. It gat
 
 - `index.html`: Contains the HTML structure of the survey form.
 - `styles.css`: Includes the CSS styling for the survey form elements.
+
+## Images
+
+
 
 ## Usage
 
