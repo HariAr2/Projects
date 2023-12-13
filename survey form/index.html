@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="title">SurveyForm</h1>
+    <p id="description">Basic Survey Form</p>
+    <form  id="survey-form">
+        <label for="name" id="name-label">Name: </label><br />
+        <input type="text" id="name" name="name" placeholder="Enter Name..." required><br />
+
+        <label for="email" id="email-label">Email:</label><br/>
+        <input type="email" id="email" name="email" placeholder="Enter your email" required><br/>
+
+        <label for="number" id="number-label">Number:</label><br/>
+        <input type="number" id="number" name="number" placeholder="Enter a number" min="1" max="100" required><br/>
+
+        <label for="age" id="age-label">Age:</label><br/>
+        <select id="dropdown" name="dropdown">
+            <option value="option1">18+</option>
+            <option value="option2">Below 18</option>
+        </select>
+
+
+        <fieldset>
+            
+            <legend>Car Brands:</legend>
+            
+            <label><input type="radio" name="radioOptionsGroup1" value="bmw"> BMW</label><br/>
+            <label><input type="radio" name="radioOptionsGroup1" value="porsche"> Porsche</label><br/>
+            <label><input type="radio" name="radioOptionsGroup1" value="lexus"> Lexus</label><br/>
+          </fieldset>
+
+        <fieldset>
+            
+            <legend>You Are:</legend>
+            
+            <label><input type="radio" name="radioOptionsGroup2" value="male"> Male</label><br/>
+            <label><input type="radio" name="radioOptionsGroup2" value="female"> Female</label><br/>
+            <label><input type="radio" name="radioOptionsGroup2" value="mentallyill"> Mentally Ill</label><br/>
+          </fieldset>
+
+        <fieldset>
+            <legend>Favourite Games:</legend>
+            
+            <label>
+              <input type="checkbox" name="field1" value="gow" />
+              God Of War
+            </label><br/>
+            
+            <label>
+              <input type="checkbox" name="field2" value="got" />
+              Ghost Of Tsushumia
+            </label><br/>
+            
+            <label>
+              <input type="checkbox" name="field3" value="gtav" />
+              GTA 5
+            </label><br/>
+            
+            <label>
+                <input type="checkbox" name="field3" value="ff" />
+                Final Fantasy XVI
+            </label><br/>
+            
+            <label>
+                <input type="checkbox" name="field3" value="eldenring" />
+                Elden Ring
+            </label><br/>
+            
+            <label>
+                <input type="checkbox" name="field3" value="lou" />
+                Last Of Us
+            </label>
+        </fieldset>
+
+        <div class="text-area">
+            
+            <label for="text-area" id="text-label">Comments: </label><br/>
+            <textarea name="text-area" id="text-area" rows="4" cols="50" placeholder="Comments..."></textarea><br/>
+        </div>
+         
+        <button type="submit" id="submit">SUBMIT</button>
+
+    </form>
+</body>
+</html>
