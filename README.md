@@ -1,1 +1,1 @@
-# JavaScript-MyLearningPath
+# MyProjects
