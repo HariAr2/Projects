@@ -35,6 +35,7 @@ To run this project, ensure you have the necessary libraries installed:
 pip install pandas numpy scikit-learn matplotlib seaborn
 ```
 
+
 ## Usage:
 1. Clone the repository.
 2. Open the Jupyter notebook (`diabetes.ipynb`) using Jupyter Notebook or JupyterLab.
