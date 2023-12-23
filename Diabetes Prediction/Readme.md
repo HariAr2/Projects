@@ -22,14 +22,17 @@ The dataset used in this project contains information about individuals' health 
    - Model evaluation using metrics like accuracy, precision, recall, and F1-score
    
 4. **Model Deployment**:
+   
    - Choosing the best-performing model
    - Building an interface for prediction
    
 ## Files:
+
 - `diabetes.ipynb`: Jupyter notebook containing the entire project
 - `diabetes.csv`: Dataset used for training and testing
 
 ## Installation:
+
 To run this project, ensure you have the necessary libraries installed:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
