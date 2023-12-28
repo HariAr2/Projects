@@ -14,11 +14,6 @@ The dataset used for analysis is the HR Analytics dataset, containing various em
 
 - `HR-Employee-Attrition.csv`: Dataset used in this repository.
 
-## Usage
-
-- Clone the repository: `git clone https://github.com/HariAr2/HR-analytics.git`
-- Open and run the Jupyter Notebook files in your local environment
-
 ## Requirements
 
 - Python 3
