@@ -16,7 +16,7 @@ The dataset used for analysis is the HR Analytics dataset, containing various em
 
 ## Usage
 
-- Clone the repository: `git clone https://github.com/your_username/hr-analytics.git`
+- Clone the repository: `git clone https://github.com/HariAr2/HR-analytics.git`
 - Open and run the Jupyter Notebook files in your local environment
 
 ## Requirements
