@@ -1,6 +1,6 @@
 # HR Analytics
 
-This repository contains data analysis and predictive modeling for HR analytics purposes.
+This repository contains data analysis and predictive modeling for HR analytics purposes. 
 
 ## Overview
 
