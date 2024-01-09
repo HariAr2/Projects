@@ -10,7 +10,7 @@ The dataset used in this project contains information about individuals' health 
 1. **Data Preprocessing**:
    - Handling missing values
    - Scaling numerical features
-   - Encoding categorical variables 
+   - Encoding categorical variables  
    
 2. **Exploratory Data Analysis (EDA)**:
    - Visualizing distributions of features
