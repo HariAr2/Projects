@@ -4,7 +4,7 @@
 This project aims to predict the likelihood of diabetes based on various health parameters using machine learning techniques.
 
 ## Data:
-The dataset used in this project contains information about individuals' health attributes such as glucose level, blood pressure, BMI, etc.
+The dataset used in this project contains information about individuals' health attributes such as glucose level, blood pressure, BMI, etc. 
 
 ## Methodology:
 1. **Data Preprocessing**:
