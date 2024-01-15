@@ -1,10 +1,10 @@
-const launchDate = '4 Apr 2025';
-const daysEl = document.getElementById('days');
+const launchDate = '4 Apr 2025'; // Destination or countdown  date
+const daysEl = document.getElementById('days'); // get element using Id 
 const hoursEl = document.getElementById('hours');
 const minutesEl = document.getElementById('minutes');
 const secondsEl = document.getElementById('seconds');
 
-
+// main function 
 function countdown() {
     const currentDate = new Date();
     const formattedLaunchDate = new Date(launchDate);
