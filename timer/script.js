@@ -8,7 +8,7 @@ const secondsEl = document.getElementById('seconds');
 function countdown() {
     const currentDate = new Date();
     const formattedLaunchDate = new Date(launchDate);
-
+ 
     const timeDifference = formattedLaunchDate - currentDate;
     const totalSeconds = Math.floor(timeDifference / 1000); 
 
