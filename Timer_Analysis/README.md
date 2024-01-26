@@ -13,7 +13,7 @@ This repository contains code and documentation for a time series analysis proje
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
-
+ 
 Time series analysis is a crucial aspect of data science, where the primary focus is on understanding and extracting patterns from data points that are ordered chronologically. This project employs various time series analysis techniques to uncover trends, seasonality, and anomalies in the provided dataset.
 
 ## Project Structure
