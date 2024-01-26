@@ -4,7 +4,7 @@ This repository contains data analysis and predictive modeling for HR analytics 
 
 ## Overview 
 
-The notebook files in this repository include:
+The notebook files in this repository include: 
 
 - `HR_analytics.ipynb`: Exploratory Data Analysis on HR data 
  
