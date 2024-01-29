@@ -4,7 +4,7 @@ This project is a simple timer application created using HTML, CSS, and JavaScri
 
 ## Features
 
-- Set timer duration in hours, minutes, and seconds.
+- Set timer duration in hours, minutes, and seconds. 
 - Start, pause, and reset functionality for the timer.
 - Visual representation of the running timer.
 - Responsive design for various screen sizes.
