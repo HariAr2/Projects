@@ -1,6 +1,6 @@
 # Diabetes Prediction Project
 
-## Overview:
+## Overview: 
 This project aims to predict the likelihood of diabetes based on various health parameters using machine learning techniques.
 
 ## Data:
