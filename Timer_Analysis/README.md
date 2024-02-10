@@ -1,6 +1,6 @@
 # Time Series Analysis Project 
 
-## Overview
+## Overview 
 
 This repository contains code and documentation for a time series analysis project. The goal of this project is to analyze temporal patterns in the given dataset and derive meaningful insights. The time series analysis involves techniques for understanding, modeling, and forecasting time-dependent data.
 
