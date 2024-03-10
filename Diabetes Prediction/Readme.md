@@ -9,7 +9,7 @@ The dataset used in this project contains information about individuals' health 
 ## Methodology:
 1. **Data Preprocessing**:
    - Handling missing values
-   - Scaling numerical features
+   - Scaling numerical features 
    - Encoding categorical variables   
    
 2. **Exploratory Data Analysis (EDA)**:
