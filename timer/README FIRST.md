@@ -3,7 +3,7 @@
 This project is a simple timer application created using HTML, CSS, and JavaScript. It allows users to set a timer for a specific duration and start/pause/reset the timer. 
 
 ## Features
-
+ 
 - Set timer duration in hours, minutes, and seconds.  
 - Start, pause, and reset functionality for the timer.
 - Visual representation of the running timer.
