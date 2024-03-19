@@ -24,7 +24,7 @@ This project is a simple timer application created using HTML, CSS, and JavaScri
 - Open the `script.js` file in your IDE.
 
 3. **Set Timer:**
-- Enter the desired duration for the timer (hours, minutes, and seconds) in the   launch date.
+- Enter the desired duration for the timer (hours, minutes, and seconds) in the   launch date. 
 
 
 ## Contribution
