@@ -4,7 +4,7 @@ This project includes a basic survey form created using HTML and styled with CSS
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#introduction) 
 - [Features](#features) 
 - [File Structure](#file-structure)   
 - [Usage](#usage)
