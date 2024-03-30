@@ -9,7 +9,7 @@ This project includes a basic survey form created using HTML and styled with CSS
 - [File Structure](#file-structure)   
 - [Usage](#usage)
 - [Images](#images)
-
+ 
 ## Introduction
  
 The Survey Form is a simple web form built with HTML and styled with CSS. It gathers user information and preferences through input fields, radio buttons, checkboxes, and a text area for comments. The form has validation and placeholder text to guide users through filling it out.
