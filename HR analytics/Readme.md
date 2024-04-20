@@ -8,11 +8,6 @@ The notebook files in this repository include:
 
 - `HR_analytics.ipynb`: Exploratory Data Analysis on HR data 
  
-## Dataset 
-
-The dataset used for analysis is the HR Analytics dataset, containing various employee attributes.
-
-- `HR-Employee-Attrition.csv`: Dataset used in this repository.
  
 ## Requirements
 
