@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-# Function to generate synthetic data
+# Function to generate synthetic data 
 def generate_data(num_samples):
     np.random.seed(0)  # For reproducibility
 
