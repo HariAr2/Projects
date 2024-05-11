@@ -6,7 +6,7 @@ This repository contains code and documentation for a time series analysis proje
 
 ## Table of Contents    
 
-- [Introduction](#introduction)
+- [Introduction](#introduction) 
 - [Project Structure](#project-structure)
 - [Requirements](#requirements) 
 - [Data](#data)   
