@@ -12,7 +12,7 @@ The dataset used in this project contains information about individuals' health 
    - Scaling numerical features 
    - Encoding categorical variables   
    
-2. **Exploratory Data Analysis (EDA)**:
+2. **Exploratory Data Analysis (EDA)**: 
    - Visualizing distributions of features
    - Correlation analysis
    
