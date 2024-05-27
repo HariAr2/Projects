@@ -7,7 +7,7 @@ This project aims to predict the likelihood of diabetes based on various health 
 The dataset used in this project contains information about individuals' health attributes such as glucose level, blood pressure, BMI, etc. 
 
 ## Methodology:
-1. **Data Preprocessing**:
+1. **Data Preprocessing**: 
    - Handling missing values
    - Scaling numerical features 
    - Encoding categorical variables   
