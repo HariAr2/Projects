@@ -8,7 +8,7 @@ This repository contains code and documentation for a time series analysis proje
 
 - [Introduction](#introduction) 
 - [Project Structure](#project-structure)
-- [Requirements](#requirements)   
+- [Requirements](#requirements)    
 - [Data](#data)   
 - [Acknowledgments](#acknowledgments)
 
